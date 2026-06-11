@@ -9,7 +9,6 @@
   <img src="https://raw.githubusercontent.com/afidhu/afidhu/main/my%20profile.png" width="150" alt="Afidhu Profile" />
 </p>
 ---
-
 ## 🚀 About Me
 
 Software Developer passionate about building web, mobile, and database-driven applications.
