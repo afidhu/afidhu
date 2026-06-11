@@ -73,72 +73,40 @@ I enjoy transforming ideas into real-world solutions using modern technologies a
 
 ## 💼 Featured Projects
 
-### 📱 Mobile Applications
+### 📱 **Mobile Applications**
+- **[Citizen Issues Reporting System](https://github.com/afidhu/citizen_issues_reporting_system)** - Dart application for community issue reporting
+- **[Medicine Location for Pharmacies](https://github.com/afidhu/medicine_locaton_for_pharmacies)** - Flutter app to locate nearby pharmacies
+- **[QR Code Attendance System](https://github.com/afidhu/Qr_code_Attendances_System)** - Flutter-based attendance tracking with QR codes
+- **[Flutter Chat Application](https://github.com/afidhu/flutter_chat_Node)** - Real-time messaging with Node.js backend
+- **[Native DALALI APP](https://github.com/afidhu/Native_DALALIAPP)** - React Native marketplace app with Supabase backend
 
-### Native DALALI APP
-React Native marketplace application powered by Supabase backend services.
+### 🌐 **Web Applications**
+- **[Blog System](https://github.com/afidhu/BlogSystem)** - Full-featured blogging platform
+- **[E-Commerce REST API](https://github.com/afidhu/nodejs_prisma_e-commerce)** - TypeScript/Node.js commerce backend
+- **[Restaurant Management System](https://github.com/afidhu/Laravel_restaurant_ms)** - Complete restaurant operations platform
+- **[Student Management System](https://github.com/afidhu/Student_management_system)** - Educational institution management
+- **[Blood Donation System](https://github.com/afidhu/blood-donation)** - Community blood donation platform
 
-### Citizen Issues Reporting System
-Community issue reporting platform built with Flutter and Dart.
+### 🤖 **AI & Advanced Projects**
+- **[AI Coding Assistant](https://github.com/afidhu/AL-CODING-ASISTANT)** - Python-based coding helper
+- **[Django Chatbot Applications](https://github.com/afidhu/django_chatboot)** - Multiple chatbot implementations
+- **[Node AI Basics](https://github.com/afidhu/node_ai_basics)** - AI integration with Node.js
 
-### Medicine Location for Pharmacies
-Mobile application helping users locate medicines and nearby pharmacies.
+### 🛠️ **System & Utility Projects**
+- **[Water Management System](https://github.com/afidhu/pern_water_system)** - PERN stack water tracking
+- **[Vehicle Tracking System](https://github.com/afidhu/vehicle_track_system)** - Real-time vehicle monitoring
+- **[Expense Tracker (Firebase + React)](https://github.com/afidhu/expense-tracker-firebase-react)** - Personal finance app
+- **[Library Management System](https://github.com/afidhu/Library_management-_system)** - Library operations platform
 
-### QR Code Attendance System
-Attendance management system using QR code technology.
-
-### Flutter Chat Application
-Real-time messaging application integrated with Node.js backend.
-
----
-
-### 🌐 Web Applications
-
-### Blood Donation System
-Platform connecting blood donors, hospitals, and recipients.
-
-### E-Commerce REST API
-TypeScript and Node.js commerce backend using Prisma ORM.
-
-### Restaurant Management System
-Comprehensive restaurant operations and management solution.
-
-### Student Management System
-Educational institution management platform.
-
-### Blog System
-Content management and blogging platform.
+### 📚 **Learning & Practice Projects**
+- **Prisma ORM** - Database optimization patterns & best practices
+- **Docker & DevOps** - Containerization fundamentals
+- **TypeScript & Advanced JS** - Modern JavaScript patterns
+- **Flutter & Dart** - Mobile development fundamentals
+- **Data Structures & Algorithms** - Computer science foundations
 
 ---
 
-### 🤖 AI & Smart Applications
-
-### AI Coding Assistant
-Python-powered coding assistant for development support.
-
-### Django Chatbot Applications
-Chatbot systems built using Django and Python.
-
-### Node AI Basics
-Experiments and integrations involving AI and Node.js.
-
----
-
-### 🛠️ Systems & Utility Projects
-
-### Vehicle Tracking System
-Real-time vehicle monitoring and tracking platform.
-
-### Water Management System
-PERN stack application for monitoring and managing water resources.
-
-### Expense Tracker
-React and Firebase-based personal finance management application.
-
-### Library Management System
-Library resource and operations management system.
-
----
 
 ## 🔭 Currently Working On
 
