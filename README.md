@@ -6,7 +6,7 @@
 
 <h3 align="center">Software Developer | Full-Stack Developer | Mobile App & Web Developer</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/afidhu/afidhu/main/my%20profile.png" width="150" alt="Afidhu Profile" />
+  <img src="https://komarev.com/ghpvc/?username=afidhu&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 ---
 ## 🚀 About Me
