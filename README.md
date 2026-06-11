@@ -7,7 +7,7 @@
 <h3 align="center">Software Developer | Full-Stack Developer | Mobile App & Web Developer</h3>
 https://github.com/afidhu/afidhu/blob/main/my%20profile.png
 <p align="center">
-  <img src="https://github.com/afidhu/afidhu/blob/main/my%20profile.png&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://raw.githubusercontent.com/afidhu/afidhu/main/my%20profile.png" width="250" alt="Afidhu Profile" />
 </p>
 
 ---
