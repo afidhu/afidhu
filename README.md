@@ -5,11 +5,9 @@
 <h1 align="center">👋 Hi, I'm Afidhu</h1>
 
 <h3 align="center">Software Developer | Full-Stack Developer | Mobile App & Web Developer</h3>
-https://github.com/afidhu/afidhu/blob/main/my%20profile.png
 <p align="center">
   <img src="https://raw.githubusercontent.com/afidhu/afidhu/main/my%20profile.png" width="250" alt="Afidhu Profile" />
 </p>
-
 ---
 
 ## 🚀 About Me
