@@ -1,6 +1,4 @@
-# 👋 Hi, I'm **Afidhu
- I'm a Software Developer
-**
+# 👋 Hi, I'm **Afidhu,\nI'm a Software Developer **
 
 A passionate **Full-Stack Developer** & **Mobile App Developer** with expertise in building scalable applications using modern technologies. I specialize in creating efficient backend systems, responsive frontends, and cross-platform mobile solutions.
 
