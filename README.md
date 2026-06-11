@@ -5,9 +5,9 @@
 <h1 align="center">👋 Hi, I'm Afidhu</h1>
 
 <h3 align="center">Software Developer | Full-Stack Developer | Mobile App & Web Developer</h3>
-
+https://github.com/afidhu/afidhu/blob/main/my%20profile.png
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=afidhu&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github.com/afidhu/afidhu/blob/main/my%20profile.png&label=Profile+Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
